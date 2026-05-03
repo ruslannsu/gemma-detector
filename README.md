@@ -1,0 +1,1 @@
+This hallucination detector is a frozen Gemma embedder(https://arxiv.org/abs/2509.20354) with NLP that focuses on context
